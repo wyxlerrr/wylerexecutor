@@ -1,4 +1,4 @@
-Wyler is Open-Sourced, Please don't copy us.
+Wyler is Open-Sourced, Please don't copy us, We Are only gonna Publish a Few Lines so Here-.
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
